@@ -1,4 +1,4 @@
-# qrscanner
+# QRScanner
 
 QRScanner provides a simple command-line interface to interact with the program. The following commands are available:
 
